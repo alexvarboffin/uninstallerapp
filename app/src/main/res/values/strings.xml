@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">uninstaller app</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="uninstall">Uninstaller</string>
+
+    <!-- menuPoPup -->
+    <string name="usr">User APPS</string>
+    <string name="mn_rateus">Rate Us</string>
+    <string name="mn_sharethisapp">Share  This APP</string>
+    <string name="mn_moreapp">More APPS</string>
+    <string name="mn_feedback">Send feedback</string>
+    <string name="mn_exit">Exit</string>
+
+    <!-- Developer name-->
+    <string name="namedev">namedev</string>
+</resources>
